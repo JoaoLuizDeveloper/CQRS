@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AwesomeGymLive.Application.Commands.AddStudent
+namespace CQRS.Application.Commands.AddStudent
 {
     public class AddStudentInputModel
     {

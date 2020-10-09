@@ -1,4 +1,4 @@
-﻿namespace AwesomeGymLive.Application.Queries.GetStudents
+﻿namespace CQRS.Application.Queries.GetStudents
 {
     public class GetStudentsViewModel
     {

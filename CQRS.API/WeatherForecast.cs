@@ -1,6 +1,6 @@
 using System;
 
-namespace AwesomeGymLive.API
+namespace CQRS.API
 {
     public class WeatherForecast
     {

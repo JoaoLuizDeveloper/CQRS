@@ -1,5 +1,5 @@
-using AwesomeGymLive.Application.Commands.AddStudent;
-using AwesomeGymLive.Domain.Interfaces;
+using CQRS.Application.Commands.AddStudent;
+using CQRS.Domain.Interfaces;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace AwesomeGymLive.API
+namespace CQRS.API
 {
     public class Startup
     {

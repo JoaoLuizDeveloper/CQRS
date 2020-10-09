@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace AwesomeGymLive.API
+namespace CQRS.API
 {
     public class Program
     {

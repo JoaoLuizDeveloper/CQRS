@@ -1,8 +1,8 @@
-﻿using AwesomeGymLive.Domain.Entities;
+﻿using CQRS.Domain.Entities;
 using System;
 using System.Collections.Generic;
 
-namespace AwesomeGymLive.Domain.Interfaces
+namespace CQRS.Domain.Interfaces
 {
     public class StudentRepository : IStudentRepository
     {

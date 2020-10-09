@@ -1,10 +1,10 @@
-﻿using AwesomeGymLive.Domain.Entities;
-using AwesomeGymLive.Domain.Interfaces;
+﻿using CQRS.Domain.Entities;
+using CQRS.Domain.Interfaces;
 using MediatR;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AwesomeGymLive.Application.Commands.AddStudent
+namespace CQRS.Application.Commands.AddStudent
 {
     public class AddStudentCommandHandler : IRequestHandler<AddStudentCommand, Unit>
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AwesomeGymLive.Domain
+namespace CQRS.Domain
 {
     public class Class1
     {

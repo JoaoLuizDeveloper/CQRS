@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AwesomeGymLive.Application\CQRS.Application.csproj" />
+    <ProjectReference Include="..\CQRS.Application\CQRS.Application.csproj" />
   </ItemGroup>
 
 

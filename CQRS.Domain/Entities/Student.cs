@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AwesomeGymLive.Domain.Entities
+namespace CQRS.Domain.Entities
 {
     public class Student
     {

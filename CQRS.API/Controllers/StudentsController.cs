@@ -1,4 +1,4 @@
-﻿using AwesomeGymLive.Application.Queries.GetStudents;
+﻿using CQRS.Application.Queries.GetStudents;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace AwesomeGymLive.API.Controllers
+namespace CQRS.API.Controllers
 {
     [Route("api/[controller]")]
     public class StudentsController : ControllerBase

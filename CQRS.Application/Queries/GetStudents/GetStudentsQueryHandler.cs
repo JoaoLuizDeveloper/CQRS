@@ -1,4 +1,4 @@
-﻿using AwesomeGymLive.Domain.Interfaces;
+﻿using CQRS.Domain.Interfaces;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AwesomeGymLive.Application.Queries.GetStudents
+namespace CQRS.Application.Queries.GetStudents
 {
     public class GetStudentsQueryHandler : IRequestHandler<GetStudentsQuery, List<GetStudentsViewModel>>
     {

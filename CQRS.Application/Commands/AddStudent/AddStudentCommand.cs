@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using System;
 
-namespace AwesomeGymLive.Application.Commands.AddStudent
+namespace CQRS.Application.Commands.AddStudent
 {
     public class AddStudentCommand : IRequest<Unit>
     {
